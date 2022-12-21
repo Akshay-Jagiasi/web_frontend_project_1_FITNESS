@@ -2,3 +2,4 @@
 
 This project is my first year project when i was learning html and css 
 This project is based on the fitness center in our area
+This project is fully mobile responsive
